@@ -1,0 +1,29 @@
+body{ 
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin: 0 auto; 
+    background-image: linear-gradient(to right, #FBC5DF, #D3B3E4);
+}
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffffff;
+    border-radius: 5px; 
+    margin-top: 10px;
+}
+.logo {
+    width: 8px; 
+    padding-top: 30px;
+}
+.navegacao{
+    overflow: hidden;
+}
+.navegacao a{
+    float: right;
+    padding:10px;
+    color: rgb(#df3372);
+    text-decoration: none
+    
+}
+.navegacao a:hover{ 
+    color: black;
+}
